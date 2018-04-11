@@ -6,7 +6,7 @@ Run [Presto](https://prestodb.io/) cluster on [Kubernetes](https://kubernetes.io
 1. Clone this.
 
     ``
-    git clone https://github.com/dharmeshkakadia/presto-kubernetes/ && cd presto-kubernetes
+    git clone https://github.com/dabansal/presto-kubernetes/ && cd presto-kubernetes
     ``
 
 2. Start Coordinator.
