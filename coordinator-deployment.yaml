@@ -21,7 +21,7 @@ spec:
           value: "10"
         - name: PRESTO_MAX_MEMORY_PER_NODE
           value: "1"
-        image: johandry/presto
+        image: dabansal/presto
         livenessProbe:
           exec:
             command:
