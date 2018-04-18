@@ -14,7 +14,7 @@ spec:
       containers:
       - env:
         - name: HTTP_SERVER_PORT
-          value: "80"
+          value: "8080"
         - name: PRESTO_JVM_HEAP_SIZE
           value: "8"
         - name: PRESTO_MAX_MEMORY
